@@ -23,6 +23,7 @@ pip install langchain openai
 ```
 ## Cloning
 - Clone this repository using:
+  
 ```git clone https://github.com/Avaneesh-Alla/RestaurantNameGenerator.git```
 ## Setup
 
