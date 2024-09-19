@@ -21,7 +21,9 @@ You can install the necessary dependencies by running:
 pip install streamlit
 pip install langchain openai
 ```
-
+## Cloning
+- Clone this repository using:
+```git clone https://github.com/Avaneesh-Alla/RestaurantNameGenerator.git```
 ## Setup
 
 ### 1. Get an OpenAI API Key:
